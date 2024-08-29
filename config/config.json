@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "avnadmin",
+    "database": "user_api",
+    "password": "AVNS_qiJyRHY0LrFFDVHBtsT",
+    "host": "mysql-3c224cd2-mayank-1cf0.h.aivencloud.com",
+    "dialect": "mysql",
+    "port": 27541
+  }
+}
